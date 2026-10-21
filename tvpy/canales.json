@@ -17,6 +17,9 @@
    "cat": "tv",
    "num": 2,
    "urls": [
+    "https://d2h2wh04y3aqtb.cloudfront.net/hls/25646ipbno2g/7_4/index.m3u8",
+    "https://d2h2wh04y3aqtb.cloudfront.net/hls/25646ipbno2g/5_4/index.m3u8",
+    "https://d2h2wh04y3aqtb.cloudfront.net/hls/25646ipbno2g/3_4/index.m3u8",
     "https://ddycmnicl95kp.cloudfront.net/live/25646ipbno2g/master.m3u8"
    ],
    "epg": "snt",
@@ -45,20 +48,22 @@
   {
    "id": "trece",
    "n": "Trece",
-   "cat": "tv,youtube",
+   "cat": "tv",
    "num": 5,
    "urls": [],
    "epg": "13_de_paraguay",
-   "yt": "UCbgzWL_vNk3K2vcpk2udhLA"
+   "dm": "xak2neu",
+   "web": "https://www.trece.com.py/"
   },
   {
    "id": "unicanal",
    "n": "Unicanal",
-   "cat": "tv,youtube",
+   "cat": "tv",
    "num": 6,
    "urls": [],
    "epg": "unicanal",
-   "yt": "UCT9-9nG-go0cQGn9rVBzaxA"
+   "dm": "xak2lou",
+   "web": "https://www.unicanal.com.py/"
   },
   {
    "id": "e40",
@@ -88,6 +93,9 @@
    "cat": "noticias",
    "num": 10,
    "urls": [
+    "https://d2h2wh04y3aqtb.cloudfront.net/hls/qnxsy62odjyb/7_4/index.m3u8",
+    "https://d2h2wh04y3aqtb.cloudfront.net/hls/qnxsy62odjyb/5_4/index.m3u8",
+    "https://d2h2wh04y3aqtb.cloudfront.net/hls/qnxsy62odjyb/3_4/index.m3u8",
     "https://ddycmnicl95kp.cloudfront.net/live/qnxsy62odjyb/master.m3u8"
    ],
    "epg": "canal_9_noticias_paraguay",
