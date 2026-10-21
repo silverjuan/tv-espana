@@ -1,0 +1,417 @@
+{
+ "version": 1,
+ "canales": [
+  {
+   "id": "la1",
+   "n": "La 1",
+   "cat": "tv",
+   "num": 1,
+   "urls": [
+    "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+    "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]"
+   ],
+   "tdt": "La 1",
+   "epg": "La1.TV"
+  },
+  {
+   "id": "la2",
+   "n": "La 2",
+   "cat": "tv",
+   "num": 2,
+   "urls": [
+    "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
+    "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618"
+   ],
+   "tdt": "La 2",
+   "epg": "La2.TV"
+  },
+  {
+   "id": "cuatro",
+   "n": "Cuatro",
+   "cat": "tv",
+   "num": 4,
+   "urls": [],
+   "tdt": "Cuatro",
+   "epg": "Cuatro.TV",
+   "mediaset": "cuatro"
+  },
+  {
+   "id": "telecinco",
+   "n": "Telecinco",
+   "cat": "tv",
+   "num": 5,
+   "urls": [],
+   "tdt": "Telecinco",
+   "epg": "Telecinco.TV",
+   "mediaset": "telecinco"
+  },
+  {
+   "id": "fdf",
+   "n": "FDF",
+   "cat": "tv",
+   "num": 8,
+   "urls": [],
+   "tdt": "FDF",
+   "epg": "FDF.TV",
+   "mediaset": "fdf"
+  },
+  {
+   "id": "trece",
+   "n": "TRECE",
+   "cat": "tv",
+   "num": 13,
+   "urls": [
+    "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8"
+   ],
+   "tdt": "TRECE",
+   "epg": "13.TV"
+  },
+  {
+   "id": "eltoro",
+   "n": "El Toro TV",
+   "cat": "tv",
+   "num": 14,
+   "urls": [
+    "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8",
+    "https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8"
+   ],
+   "tdt": "El Toro TV",
+   "epg": "ElToroTV.TV"
+  },
+  {
+   "id": "clan",
+   "n": "Clan",
+   "cat": "tv",
+   "num": 15,
+   "urls": [
+    "https://ztnr.rtve.es/ztnr/5466990.m3u8",
+    "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8",
+    "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620"
+   ],
+   "tdt": "Clan",
+   "epg": "Clan.TV"
+  },
+  {
+   "id": "canalsur",
+   "n": "Canal Sur",
+   "cat": "tv",
+   "num": 20,
+   "urls": [
+    "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/74cdbd1b401a7598ab8f3e9b5652c9909daa60dd4f6f96f28396a3f1cfd926f2.m3u8",
+    "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
+   ],
+   "tdt": "Canal Sur Andalucía",
+   "epg": "CanalSurA.TV"
+  },
+  {
+   "id": "canalsur2",
+   "n": "Canal Sur 2",
+   "cat": "tv",
+   "num": 21,
+   "urls": [
+    "https://rtva-channel22.flumotion.cloud/playlist.m3u8"
+   ],
+   "tdt": "Canal Sur 2 Accesible",
+   "epg": "CanalSurA.TV"
+  },
+  {
+   "id": "hola",
+   "n": "¡HOLA! Play",
+   "cat": "tv",
+   "num": 30,
+   "urls": [
+    "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
+   ],
+   "tdt": "¡HOLA! Play",
+   "epg": "HOLA_Play.TV"
+  },
+  {
+   "id": "cuentame",
+   "n": "Cuéntame",
+   "cat": "tv",
+   "num": 31,
+   "urls": [
+    "https://ztnr.rtve.es/ztnr/6909843.m3u8",
+    "https://rtvelivestream.rtve.es/eventual/gofast/playm7_main.m3u8"
+   ],
+   "tdt": "Cuéntame (RTVE)",
+   "epg": "RTVE_Cuentame.TV"
+  },
+  {
+   "id": "promesa",
+   "n": "La Promesa",
+   "cat": "tv",
+   "num": 32,
+   "urls": [
+    "https://ztnr.rtve.es/ztnr/2472039.m3u8",
+    "https://rtvelivestream.rtve.es/eventual/gofast/playm1_main.m3u8"
+   ],
+   "tdt": "La Promesa (RTVE)",
+   "epg": "RTVE_Promesa.TV"
+  },
+  {
+   "id": "revuelta",
+   "n": "La Revuelta",
+   "cat": "tv",
+   "num": 33,
+   "urls": [
+    "https://ztnr.rtve.es/ztnr/16464388.m3u8",
+    "https://rtvelivestream.rtve.es/eventual/gofast/playm5_main.m3u8"
+   ],
+   "tdt": "La Revuelta (RTVE)",
+   "epg": "RTVE_Epoca.TV"
+  },
+  {
+   "id": "cocina",
+   "n": "Cocina",
+   "cat": "tv",
+   "num": 34,
+   "urls": [
+    "https://ztnr.rtve.es/ztnr/16656232.m3u8",
+    "https://rtvelivestream.rtve.es/eventual/gofast/playm20_main.m3u8"
+   ],
+   "tdt": "Cocina (RTVE)",
+   "epg": "RTVE_Cocina.TV"
+  },
+  {
+   "id": "alcielo",
+   "n": "Al cielo con ella",
+   "cat": "tv",
+   "num": 35,
+   "urls": [
+    "https://ztnr.rtve.es/ztnr/16862827.m3u8",
+    "https://rtvelivestream.rtve.es/eventual/gofast/playm26_main.m3u8"
+   ],
+   "tdt": "Al cielo con ella (RTVE)",
+   "epg": "RTVE_PopUp.TV"
+  },
+  {
+   "id": "parlamento",
+   "n": "Canal Parlamento",
+   "cat": "tv",
+   "num": 40,
+   "urls": [
+    "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
+   ],
+   "tdt": "Canal Parlamento",
+   "epg": null
+  },
+  {
+   "id": "congreso",
+   "n": "Congreso",
+   "cat": "tv",
+   "num": 41,
+   "urls": [
+    "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8",
+    "https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8",
+    "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8",
+    "https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8",
+    "https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8"
+   ],
+   "tdt": "Congreso de los Diputados",
+   "epg": null
+  },
+  {
+   "id": "senado",
+   "n": "Senado",
+   "cat": "tv",
+   "num": 42,
+   "urls": [
+    "https://senadolive.akamaized.net/hls/live/2006551/punto1/master.m3u8",
+    "https://senadolive.akamaized.net/hls/live/2006591/punto2/master.m3u8",
+    "https://senadolive.akamaized.net/hls/live/2006592/punto3/master.m3u8",
+    "https://senadolive.akamaized.net/hls/live/2006593/punto4/master.m3u8",
+    "https://senadolive.akamaized.net/hls/live/2006594/punto5/master.m3u8",
+    "https://senadolive.akamaized.net/hls/live/2006595/punto6/master.m3u8",
+    "https://senadolive.akamaized.net/hls/live/2006589/punto7/master.m3u8",
+    "https://senadolive.akamaized.net/hls/live/2006590/punto8/master.m3u8"
+   ],
+   "tdt": "Senado",
+   "epg": null
+  },
+  {
+   "id": "csnoticias",
+   "n": "Canal Sur Noticias",
+   "cat": "noticias",
+   "num": 22,
+   "urls": [
+    "https://rtva-channel42.flumotion.cloud/playlist.m3u8"
+   ],
+   "tdt": "Canal Sur Más Noticias",
+   "epg": null
+  },
+  {
+   "id": "24h",
+   "n": "24h",
+   "cat": "noticias",
+   "num": 24,
+   "urls": [
+    "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+    "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+    "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621"
+   ],
+   "tdt": "24h",
+   "epg": "24Horas.TV"
+  },
+  {
+   "id": "mas24",
+   "n": "+24",
+   "cat": "noticias",
+   "num": 25,
+   "urls": [
+    "https://ztnr.rtve.es/ztnr/6108696.m3u8",
+    "https://ztnr.rtve.es/ztnr/6108703.m3u8",
+    "https://ztnr.rtve.es/ztnr/6108704.m3u8",
+    "https://ztnr.rtve.es/ztnr/6108706.m3u8",
+    "https://ztnr.rtve.es/ztnr/6108720.m3u8",
+    "https://ztnr.rtve.es/ztnr/6108721.m3u8"
+   ],
+   "tdt": "+24",
+   "epg": null
+  },
+  {
+   "id": "euronews",
+   "n": "Euronews",
+   "cat": "noticias",
+   "num": 26,
+   "urls": [
+    "https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8"
+   ],
+   "tdt": "Euronews",
+   "epg": "Euronews.TV"
+  },
+  {
+   "id": "elpais",
+   "n": "El País",
+   "cat": "noticias",
+   "num": 27,
+   "urls": [
+    "https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8"
+   ],
+   "tdt": "El País",
+   "epg": "ElPais.TV"
+  },
+  {
+   "id": "elconfidencial",
+   "n": "El Confidencial",
+   "cat": "noticias",
+   "num": 28,
+   "urls": [
+    "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-bmo0niz694whx.m3u8"
+   ],
+   "tdt": "El Confidencial",
+   "epg": "ElConfidencial.TV"
+  },
+  {
+   "id": "negocios",
+   "n": "Negocios TV",
+   "cat": "noticias",
+   "num": 29,
+   "urls": [
+    "https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8"
+   ],
+   "tdt": "Negocios TV",
+   "epg": "Negocios.TV"
+  },
+  {
+   "id": "somoscine",
+   "n": "Somos Cine",
+   "cat": "peliculas",
+   "num": 50,
+   "urls": [
+    "https://ztnr.rtve.es/ztnr/6909845.m3u8",
+    "https://rtvelivestream.rtve.es/eventual/gofast/playm6_main.m3u8"
+   ],
+   "tdt": "Somos Cine (RTVE)",
+   "epg": "RTVE_SomosCine.TV"
+  },
+  {
+   "id": "rakutentop",
+   "n": "Rakuten Top Cine",
+   "cat": "peliculas",
+   "num": 51,
+   "urls": [
+    "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+   ],
+   "tdt": null,
+   "epg": null
+  },
+  {
+   "id": "rakutenaccion",
+   "n": "Rakuten Acción",
+   "cat": "peliculas",
+   "num": 52,
+   "urls": [
+    "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+   ],
+   "tdt": null,
+   "epg": null
+  },
+  {
+   "id": "rakutencomedia",
+   "n": "Rakuten Comedia",
+   "cat": "peliculas",
+   "num": 53,
+   "urls": [
+    "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
+   ],
+   "tdt": null,
+   "epg": null
+  },
+  {
+   "id": "rakutendrama",
+   "n": "Rakuten Drama",
+   "cat": "peliculas",
+   "num": 54,
+   "urls": [
+    "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
+   ],
+   "tdt": null,
+   "epg": null
+  },
+  {
+   "id": "rakutenfamilia",
+   "n": "Rakuten Familia",
+   "cat": "peliculas",
+   "num": 55,
+   "urls": [
+    "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+   ],
+   "tdt": null,
+   "epg": null
+  },
+  {
+   "id": "cinewestern",
+   "n": "Cine Western",
+   "cat": "peliculas",
+   "num": 56,
+   "urls": [
+    "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
+   ],
+   "tdt": null,
+   "epg": null
+  },
+  {
+   "id": "cinefriki",
+   "n": "Cine Friki",
+   "cat": "peliculas",
+   "num": 57,
+   "urls": [
+    "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
+   ],
+   "tdt": null,
+   "epg": null
+  },
+  {
+   "id": "mytime",
+   "n": "MyTime Cine",
+   "cat": "peliculas",
+   "num": 58,
+   "urls": [
+    "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+   ],
+   "tdt": null,
+   "epg": null
+  }
+ ]
+}
