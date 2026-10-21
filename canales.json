@@ -56,6 +56,36 @@
    "mediaset": "fdf"
   },
   {
+   "id": "divinity",
+   "n": "Divinity",
+   "cat": "tv",
+   "num": 9,
+   "urls": [],
+   "tdt": null,
+   "epg": "Divinity.TV",
+   "mediaset": "divinity"
+  },
+  {
+   "id": "energy",
+   "n": "Energy",
+   "cat": "tv",
+   "num": 10,
+   "urls": [],
+   "tdt": null,
+   "epg": "Energy.TV",
+   "mediaset": "energy"
+  },
+  {
+   "id": "bemad",
+   "n": "Be Mad",
+   "cat": "tv",
+   "num": 11,
+   "urls": [],
+   "tdt": null,
+   "epg": "Bemad.TV",
+   "mediaset": "bemad"
+  },
+  {
    "id": "trece",
    "n": "TRECE",
    "cat": "tv",
@@ -92,6 +122,16 @@
    "epg": "Clan.TV"
   },
   {
+   "id": "boing",
+   "n": "Boing",
+   "cat": "tv",
+   "num": 16,
+   "urls": [],
+   "tdt": null,
+   "epg": "Boing.TV",
+   "mediaset": "boing"
+  },
+  {
    "id": "canalsur",
    "n": "Canal Sur",
    "cat": "tv",
@@ -112,7 +152,8 @@
     "https://rtva-channel22.flumotion.cloud/playlist.m3u8"
    ],
    "tdt": "Canal Sur 2 Accesible",
-   "epg": "CanalSurA.TV"
+   "epg": null,
+   "desc": "Programación cultural, infantil y de entretenimiento de Canal Sur"
   },
   {
    "id": "hola",
@@ -186,6 +227,47 @@
    "epg": "RTVE_PopUp.TV"
   },
   {
+   "id": "mtmad",
+   "n": "mtmad 24h",
+   "cat": "tv",
+   "num": 36,
+   "urls": [],
+   "tdt": null,
+   "epg": null,
+   "mediaset": "mtmad-24h",
+   "desc": "Programas y realities de mtmad, las 24 horas"
+  },
+  {
+   "id": "mtcomedia",
+   "n": "Comedia",
+   "cat": "tv",
+   "num": 37,
+   "urls": [],
+   "tdt": null,
+   "epg": "Mitele_Comedia.TV",
+   "mediaset": "mitele-comedia"
+  },
+  {
+   "id": "mtcalle",
+   "n": "En la calle",
+   "cat": "tv",
+   "num": 38,
+   "urls": [],
+   "tdt": null,
+   "epg": "Mitele_Calle.TV",
+   "mediaset": "mitele-en-la-calle"
+  },
+  {
+   "id": "mtseries",
+   "n": "Top Series",
+   "cat": "tv",
+   "num": 39,
+   "urls": [],
+   "tdt": null,
+   "epg": "Mitele_Series.TV",
+   "mediaset": "mitele-top-series"
+  },
+  {
    "id": "parlamento",
    "n": "Canal Parlamento",
    "cat": "tv",
@@ -194,7 +276,8 @@
     "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
    ],
    "tdt": "Canal Parlamento",
-   "epg": null
+   "epg": null,
+   "desc": "Plenos y comisiones del Congreso y el Senado"
   },
   {
    "id": "congreso",
@@ -209,7 +292,8 @@
     "https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8"
    ],
    "tdt": "Congreso de los Diputados",
-   "epg": null
+   "epg": null,
+   "desc": "Sesiones del Congreso de los Diputados en directo"
   },
   {
    "id": "senado",
@@ -227,7 +311,8 @@
     "https://senadolive.akamaized.net/hls/live/2006590/punto8/master.m3u8"
    ],
    "tdt": "Senado",
-   "epg": null
+   "epg": null,
+   "desc": "Sesiones del Senado en directo"
   },
   {
    "id": "csnoticias",
@@ -238,7 +323,8 @@
     "https://rtva-channel42.flumotion.cloud/playlist.m3u8"
    ],
    "tdt": "Canal Sur Más Noticias",
-   "epg": null
+   "epg": null,
+   "desc": "Informativos de Andalucía, las 24 horas"
   },
   {
    "id": "24h",
@@ -267,7 +353,8 @@
     "https://ztnr.rtve.es/ztnr/6108721.m3u8"
    ],
    "tdt": "+24",
-   "epg": null
+   "epg": null,
+   "desc": "Noticias y actos especiales de RTVE en directo"
   },
   {
    "id": "euronews",
@@ -334,7 +421,8 @@
     "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
    ],
    "tdt": null,
-   "epg": null
+   "epg": null,
+   "desc": "Las películas más vistas de Rakuten, sin parar"
   },
   {
    "id": "rakutenaccion",
@@ -345,7 +433,8 @@
     "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
    ],
    "tdt": null,
-   "epg": null
+   "epg": null,
+   "desc": "Cine de acción, las 24 horas"
   },
   {
    "id": "rakutencomedia",
@@ -356,7 +445,8 @@
     "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
    ],
    "tdt": null,
-   "epg": null
+   "epg": null,
+   "desc": "Cine de comedia, las 24 horas"
   },
   {
    "id": "rakutendrama",
@@ -367,7 +457,8 @@
     "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
    ],
    "tdt": null,
-   "epg": null
+   "epg": null,
+   "desc": "Cine dramático, las 24 horas"
   },
   {
    "id": "rakutenfamilia",
@@ -378,7 +469,8 @@
     "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
    ],
    "tdt": null,
-   "epg": null
+   "epg": null,
+   "desc": "Películas para ver en familia"
   },
   {
    "id": "cinewestern",
@@ -389,7 +481,8 @@
     "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
    ],
    "tdt": null,
-   "epg": null
+   "epg": null,
+   "desc": "Películas del oeste, las 24 horas"
   },
   {
    "id": "cinefriki",
@@ -400,7 +493,8 @@
     "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
    ],
    "tdt": null,
-   "epg": null
+   "epg": null,
+   "desc": "Cine de culto, ciencia ficción y fantasía"
   },
   {
    "id": "mytime",
@@ -411,7 +505,8 @@
     "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
    ],
    "tdt": null,
-   "epg": null
+   "epg": null,
+   "desc": "Películas, las 24 horas"
   }
  ]
 }
