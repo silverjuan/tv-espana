@@ -1,0 +1,480 @@
+{
+ "version": 1,
+ "canales": [
+  {
+   "id": "telefuturo",
+   "n": "Telefuturo",
+   "cat": "tv",
+   "num": 1,
+   "urls": [
+    "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8"
+   ],
+   "epg": "telefuturo"
+  },
+  {
+   "id": "snt",
+   "n": "SNT",
+   "cat": "tv",
+   "num": 2,
+   "urls": [
+    "https://ddycmnicl95kp.cloudfront.net/live/25646ipbno2g/master.m3u8"
+   ],
+   "epg": "snt",
+   "web": "https://www.snt.com.py/envivo/"
+  },
+  {
+   "id": "latele",
+   "n": "La Tele",
+   "cat": "tv",
+   "num": 3,
+   "urls": [
+    "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion"
+   ],
+   "epg": "la_tele_paraguay"
+  },
+  {
+   "id": "paraguaytv",
+   "n": "Paraguay TV",
+   "cat": "tv",
+   "num": 4,
+   "urls": [
+    "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8"
+   ],
+   "epg": "paraguay_tv"
+  },
+  {
+   "id": "trece",
+   "n": "Trece",
+   "cat": "tv,youtube",
+   "num": 5,
+   "urls": [],
+   "epg": "13_de_paraguay",
+   "yt": "UCbgzWL_vNk3K2vcpk2udhLA"
+  },
+  {
+   "id": "unicanal",
+   "n": "Unicanal",
+   "cat": "tv,youtube",
+   "num": 6,
+   "urls": [],
+   "epg": "unicanal",
+   "yt": "UCT9-9nG-go0cQGn9rVBzaxA"
+  },
+  {
+   "id": "e40",
+   "n": "E40",
+   "cat": "tv",
+   "num": 7,
+   "urls": [
+    "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion"
+   ],
+   "epg": null,
+   "desc": "Entretenimiento"
+  },
+  {
+   "id": "hei",
+   "n": "HEi",
+   "cat": "tv",
+   "num": 8,
+   "urls": [
+    "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
+   ],
+   "epg": null,
+   "desc": "Entretenimiento"
+  },
+  {
+   "id": "c9n",
+   "n": "C9N",
+   "cat": "noticias",
+   "num": 10,
+   "urls": [
+    "https://ddycmnicl95kp.cloudfront.net/live/qnxsy62odjyb/master.m3u8"
+   ],
+   "epg": "canal_9_noticias_paraguay",
+   "web": "https://www.c9n.com.py/envivo/"
+  },
+  {
+   "id": "npy",
+   "n": "NPY",
+   "cat": "noticias,tv",
+   "num": 11,
+   "urls": [
+    "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion"
+   ],
+   "epg": "noticias_py"
+  },
+  {
+   "id": "nanduti",
+   "n": "Ñandutí TV",
+   "cat": "noticias",
+   "num": 12,
+   "urls": [
+    "https://nanduti.b-cdn.net/Source.m3u8"
+   ],
+   "epg": null,
+   "desc": "Noticias y opinión"
+  },
+  {
+   "id": "4dmas",
+   "n": "4Dmás Noticias",
+   "cat": "noticias",
+   "num": 13,
+   "urls": [
+    "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Noticias"
+  },
+  {
+   "id": "republica",
+   "n": "República TV",
+   "cat": "noticias",
+   "num": 14,
+   "urls": [
+    "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Noticias"
+  },
+  {
+   "id": "monumentaltv",
+   "n": "Monumental TV",
+   "cat": "deportes",
+   "num": 20,
+   "urls": [
+    "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion"
+   ],
+   "epg": null,
+   "desc": "Deportes: fútbol paraguayo y tertulias"
+  },
+  {
+   "id": "tigosports",
+   "n": "Tigo Sports (YouTube)",
+   "cat": "deportes,youtube",
+   "num": 21,
+   "urls": [],
+   "epg": null,
+   "yt": "UCDnZ8zbVWLaVfuDmNuWq7rw",
+   "desc": "Resúmenes y goles, gratis en YouTube"
+  },
+  {
+   "id": "monumental1080",
+   "n": "Monumental 1080 AM",
+   "cat": "deportes,radio",
+   "num": 22,
+   "urls": [
+    "http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b",
+    "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio"
+   ],
+   "epg": null,
+   "desc": "Radio deportiva"
+  },
+  {
+   "id": "cardinal",
+   "n": "ABC Cardinal 730 AM",
+   "cat": "deportes,radio,noticias",
+   "num": 23,
+   "urls": [
+    "http://sc.abc.com.py:8000/stream"
+   ],
+   "epg": null,
+   "desc": "Radio: noticias y deportes"
+  },
+  {
+   "id": "radio1000",
+   "n": "Radio 1000 AM",
+   "cat": "radio,noticias",
+   "num": 24,
+   "urls": [
+    "https://1000noticias.live:8000/radio.mp3"
+   ],
+   "epg": null,
+   "desc": "Radio de noticias"
+  },
+  {
+   "id": "abctv",
+   "n": "ABC TV",
+   "cat": "youtube,noticias",
+   "num": 30,
+   "urls": [],
+   "epg": null,
+   "yt": "UCEklbFbPoMaV1ciEb-0mAxg",
+   "desc": "El canal de ABC Color en YouTube"
+  },
+  {
+   "id": "nacional",
+   "n": "Radio Nacional 920",
+   "cat": "radio",
+   "num": 40,
+   "urls": [
+    "http://audio.radionacional.gov.py:8085/920"
+   ],
+   "epg": null,
+   "desc": "La radio pública"
+  },
+  {
+   "id": "rockandpop",
+   "n": "Rock & Pop",
+   "cat": "radio",
+   "num": 41,
+   "urls": [
+    "https://cp9.serverse.com/proxy/rockandpop/stream"
+   ],
+   "epg": null,
+   "desc": "Rock y pop"
+  },
+  {
+   "id": "aspen",
+   "n": "Aspen 102.7",
+   "cat": "radio",
+   "num": 42,
+   "urls": [
+    "https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8?k=cab33b6f9bb8d7e340d2a8ce8d4476e4576ce92fbc993b81666e7db795dc1da7&exp=1664206557"
+   ],
+   "epg": null,
+   "desc": "Clásicos en inglés"
+  },
+  {
+   "id": "amor",
+   "n": "Amor 95.9",
+   "cat": "radio",
+   "num": 43,
+   "urls": [
+    "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Románticas"
+  },
+  {
+   "id": "maria",
+   "n": "Radio María",
+   "cat": "radio",
+   "num": 44,
+   "urls": [
+    "http://dreamsiteradiocp.com:8090/stream"
+   ],
+   "epg": null,
+   "desc": "Radio católica"
+  },
+  {
+   "id": "tropicalia",
+   "n": "Tropicalia 93.9",
+   "cat": "radio",
+   "num": 45,
+   "urls": [
+    "https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Cumbia y tropical"
+  },
+  {
+   "id": "estacion40",
+   "n": "Estación 40",
+   "cat": "radio",
+   "num": 46,
+   "urls": [
+    "http://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Éxitos"
+  },
+  {
+   "id": "vibras",
+   "n": "Vibras 92.7",
+   "cat": "radio",
+   "num": 47,
+   "urls": [
+    "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Música"
+  },
+  {
+   "id": "disney",
+   "n": "Radio Disney 96.5",
+   "cat": "radio",
+   "num": 48,
+   "urls": [
+    "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PAR_ASAAC.m3u8?dist=web-radiodisney"
+   ],
+   "epg": null,
+   "desc": "Éxitos juveniles"
+  },
+  {
+   "id": "popular",
+   "n": "Popular 103.1",
+   "cat": "radio",
+   "num": 49,
+   "urls": [
+    "https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Música popular"
+  },
+  {
+   "id": "canal100",
+   "n": "Canal 100",
+   "cat": "radio",
+   "num": 50,
+   "urls": [
+    "https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Música"
+  },
+  {
+   "id": "exclusiva",
+   "n": "Exclusiva 103.7",
+   "cat": "radio",
+   "num": 51,
+   "urls": [
+    "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Música"
+  },
+  {
+   "id": "capital",
+   "n": "Capital 101.7",
+   "cat": "radio",
+   "num": 53,
+   "urls": [
+    "http://ic2489.c1788.fastserv.com/stream"
+   ],
+   "epg": null,
+   "desc": "Música"
+  },
+  {
+   "id": "pop",
+   "n": "Radio Pop 93.3",
+   "cat": "radio",
+   "num": 54,
+   "urls": [
+    "http://rps1.radiopop.com.py:8000/stream"
+   ],
+   "epg": null,
+   "desc": "Pop"
+  },
+  {
+   "id": "ysapy",
+   "n": "Ysapy 90.7",
+   "cat": "radio",
+   "num": 55,
+   "urls": [
+    "http://streamsoymedios.com:8014/stream"
+   ],
+   "epg": null,
+   "desc": "Música"
+  },
+  {
+   "id": "urbana",
+   "n": "Urbana 106.9",
+   "cat": "radio",
+   "num": 56,
+   "urls": [
+    "http://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Urbano"
+  },
+  {
+   "id": "palma",
+   "n": "Palma 106.5",
+   "cat": "radio",
+   "num": 57,
+   "urls": [
+    "http://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Música"
+  },
+  {
+   "id": "educacion",
+   "n": "Educación FM 99.7",
+   "cat": "radio",
+   "num": 58,
+   "urls": [
+    "https://proxy01.servidorenlinea.net/cdehosting/8050/;"
+   ],
+   "epg": null,
+   "desc": "Educativa"
+  },
+  {
+   "id": "educanal",
+   "n": "Educanal",
+   "cat": "regionales",
+   "num": 70,
+   "urls": [
+    "http://190.128.214.97:64333/play/a011/index.m3u8"
+   ],
+   "epg": null,
+   "desc": "Canal educativo"
+  },
+  {
+   "id": "caritas",
+   "n": "Cáritas TV",
+   "cat": "regionales",
+   "num": 71,
+   "urls": [
+    "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Canal católico"
+  },
+  {
+   "id": "rcc",
+   "n": "RCC TV",
+   "cat": "regionales",
+   "num": 72,
+   "urls": [
+    "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion"
+   ],
+   "epg": null,
+   "desc": "Canal católico"
+  },
+  {
+   "id": "canindeyu",
+   "n": "TV Canindeyú",
+   "cat": "regionales",
+   "num": 73,
+   "urls": [
+    "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8"
+   ],
+   "epg": null,
+   "desc": "Canindeyú"
+  },
+  {
+   "id": "yaguaron",
+   "n": "Regional TV Yaguarón",
+   "cat": "regionales",
+   "num": 74,
+   "urls": [
+    "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8"
+   ],
+   "epg": null,
+   "desc": "Paraguarí"
+  },
+  {
+   "id": "canal8vision",
+   "n": "Canal 8 Visión",
+   "cat": "regionales",
+   "num": 75,
+   "urls": [
+    "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8"
+   ],
+   "epg": null,
+   "desc": "Regional"
+  },
+  {
+   "id": "occidental",
+   "n": "Occidental TV",
+   "cat": "regionales",
+   "num": 76,
+   "urls": [
+    "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
+   ],
+   "epg": null,
+   "desc": "Chaco"
+  }
+ ]
+}
