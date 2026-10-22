@@ -66,10 +66,21 @@
    "web": "https://www.unicanal.com.py/"
   },
   {
+   "id": "gen",
+   "n": "GEN",
+   "cat": "tv",
+   "num": 7,
+   "urls": [],
+   "epg": null,
+   "web": "https://www.gen.com.py/",
+   "pag": "https://gentv.desdepylabs.com/External/gentv",
+   "desc": "Grupo Nación"
+  },
+  {
    "id": "abctv",
    "n": "ABC TV",
    "cat": "tv",
-   "num": 7,
+   "num": 8,
    "urls": [],
    "epg": null,
    "dm": "kQRS6ZAjGuMkByE4Mtc",
@@ -79,7 +90,7 @@
    "id": "e40",
    "n": "E40",
    "cat": "tv",
-   "num": 8,
+   "num": 9,
    "urls": [
     "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion"
    ],
@@ -90,7 +101,7 @@
    "id": "hei",
    "n": "HEi",
    "cat": "tv",
-   "num": 9,
+   "num": 10,
    "urls": [
     "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
    ],
@@ -101,7 +112,7 @@
    "id": "c9n",
    "n": "C9N",
    "cat": "noticias",
-   "num": 10,
+   "num": 11,
    "urls": [
     "https://d2h2wh04y3aqtb.cloudfront.net/hls/qnxsy62odjyb/7_4/index.m3u8",
     "https://d2h2wh04y3aqtb.cloudfront.net/hls/qnxsy62odjyb/5_4/index.m3u8",
@@ -115,7 +126,7 @@
    "id": "npy",
    "n": "NPY",
    "cat": "noticias",
-   "num": 11,
+   "num": 12,
    "urls": [
     "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion"
    ],
@@ -125,7 +136,7 @@
    "id": "nanduti",
    "n": "Ñandutí TV",
    "cat": "noticias",
-   "num": 12,
+   "num": 13,
    "urls": [
     "https://nanduti.b-cdn.net/Source.m3u8"
    ],
@@ -136,7 +147,7 @@
    "id": "4dmas",
    "n": "4Dmás Noticias",
    "cat": "noticias",
-   "num": 13,
+   "num": 14,
    "urls": [
     "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
    ],
@@ -147,7 +158,7 @@
    "id": "republica",
    "n": "República TV",
    "cat": "noticias",
-   "num": 14,
+   "num": 15,
    "urls": [
     "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
    ],
