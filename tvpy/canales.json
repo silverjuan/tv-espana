@@ -144,21 +144,10 @@
    "desc": "Noticias y opinión"
   },
   {
-   "id": "4dmas",
-   "n": "4Dmás Noticias",
-   "cat": "noticias",
-   "num": 14,
-   "urls": [
-    "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
-   ],
-   "epg": null,
-   "desc": "Noticias"
-  },
-  {
    "id": "republica",
    "n": "República TV",
    "cat": "noticias",
-   "num": 15,
+   "num": 14,
    "urls": [
     "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
    ],
@@ -442,21 +431,10 @@
    "desc": "Canal católico"
   },
   {
-   "id": "canindeyu",
-   "n": "TV Canindeyú",
-   "cat": "regionales",
-   "num": 73,
-   "urls": [
-    "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8"
-   ],
-   "epg": null,
-   "desc": "Canindeyú"
-  },
-  {
    "id": "yaguaron",
    "n": "Regional TV Yaguarón",
    "cat": "regionales",
-   "num": 74,
+   "num": 73,
    "urls": [
     "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8"
    ],
@@ -467,7 +445,7 @@
    "id": "canal8vision",
    "n": "Canal 8 Visión",
    "cat": "regionales",
-   "num": 75,
+   "num": 74,
    "urls": [
     "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8"
    ],
@@ -478,7 +456,7 @@
    "id": "occidental",
    "n": "Occidental TV",
    "cat": "regionales",
-   "num": 76,
+   "num": 75,
    "urls": [
     "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
    ],
