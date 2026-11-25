@@ -1,0 +1,5 @@
+{
+ "nombre": "2.4",
+ "novedades": "Novedades de la versión 2.4:\n• Las actualizaciones vuelven a llegar solas: la app ya no depende del límite de consultas de GitHub, que en algunas redes se gastaba\n• También busca versión nueva al volver a la app, no sólo al abrirla\n• Si algún día no puede comprobarlo, el aviso dice el motivo exacto",
+ "apk": "https://github.com/silverjuan/tv-espana/releases/download/v2.4/TV.apk"
+}
