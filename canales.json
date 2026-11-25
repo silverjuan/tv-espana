@@ -149,7 +149,7 @@
    "cat": "tv",
    "num": 30,
    "urls": [
-    "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
+    "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6433-playout/master.m3u8"
    ],
    "tdt": "¡HOLA! Play",
    "epg": "HOLA_Play.TV"
@@ -384,7 +384,7 @@
    "cat": "peliculas",
    "num": 53,
    "urls": [
-    "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
+    "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6180-playout/master.m3u8"
    ],
    "tdt": null,
    "epg": null,
@@ -396,7 +396,7 @@
    "cat": "peliculas",
    "num": 55,
    "urls": [
-    "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+    "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6205-playout/master.m3u8"
    ],
    "tdt": null,
    "epg": null,
