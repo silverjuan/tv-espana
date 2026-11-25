@@ -217,7 +217,7 @@
   {
    "id": "mtcomedia",
    "n": "Comedia",
-   "cat": "tv",
+   "cat": "programas",
    "num": 37,
    "urls": [],
    "tdt": null,
@@ -227,7 +227,7 @@
   {
    "id": "mtcalle",
    "n": "En la calle",
-   "cat": "tv",
+   "cat": "programas",
    "num": 38,
    "urls": [],
    "tdt": null,
@@ -237,7 +237,7 @@
   {
    "id": "mtseries",
    "n": "Top Series",
-   "cat": "tv",
+   "cat": "programas",
    "num": 39,
    "urls": [],
    "tdt": null,
@@ -437,6 +437,39 @@
    "tdt": null,
    "epg": null,
    "desc": "Películas, las 24 horas"
+  },
+  {
+   "id": "gh24h1",
+   "n": "Gran Hermano 24h 1",
+   "cat": "programas",
+   "num": 43,
+   "urls": [],
+   "tdt": null,
+   "epg": null,
+   "mediaset": "gh-24h-1",
+   "desc": "Gran Hermano en directo, las 24 horas"
+  },
+  {
+   "id": "gh24h2",
+   "n": "Gran Hermano 24h 2",
+   "cat": "programas",
+   "num": 44,
+   "urls": [],
+   "tdt": null,
+   "epg": null,
+   "mediaset": "gh-24h-2",
+   "desc": "Gran Hermano en directo, las 24 horas"
+  },
+  {
+   "id": "mtviajes",
+   "n": "Viajes",
+   "cat": "programas",
+   "num": 45,
+   "urls": [],
+   "tdt": null,
+   "epg": "Mitele_Viajes.TV",
+   "mediaset": "mitele-viajes",
+   "desc": "Planeta Calleja, Viajeros Cuatro y Callejeros Viajeros"
   }
  ]
 }
